@@ -66,15 +66,18 @@ export default function Home() {
 
         <div className="flex justify-between items-center mb-8">
           <h1 className="text-3xl font-bold text-gray-800">VocabNex</h1>
+          
           <div className="flex gap-4 items-center">
             <Link href="/flashcards" className="text-sm text-blue-600 hover:underline">Flashcards</Link>
-            <button
-              onClick={handleLogout}
-              className="text-sm text-gray-500 hover:text-gray-700"
-            >
-              Logout
-            </button>
-          </div>
+            <Link href="/quiz" className="text-sm text-blue-600 hover:underline">Quiz</Link>
+  <button
+    onClick={handleLogout}
+    className="text-sm text-gray-500 hover:text-gray-700"
+  >
+    Logout
+  </button>
+</div>
+            
         </div>
 
         <div className="bg-white rounded-xl shadow-sm p-6 mb-6">
