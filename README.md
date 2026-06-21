@@ -57,6 +57,6 @@ Passive reading doesn't build memory. VocabNex forces you to actively retrieve i
 
 ## Built By
 
-**Rifah Jahan Tamanna** — Built in 10 days while learning React from scratch as a portfolio project.
+**Rifah Jahan Tamanna**
 
 GitHub: [github.com/rifahjahantamanna](https://github.com/rifahjahantamanna)
